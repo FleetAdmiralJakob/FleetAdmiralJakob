@@ -7,6 +7,20 @@
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: jakob.roessner@outlook.de
 
+
+### Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" width="36">  
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="36" height="36"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="36" width="36"/>
+</p>
+
 <!---
 FleetAdmiralJakob/FleetAdmiralJakob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
