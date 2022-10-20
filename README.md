@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="36" width="36"/>
 </p>
 
+## 📊 GitHub Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fleetadmiraljakob&theme=gotham)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fleetadmiraljakob&theme=gotham)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fleetadmiraljakob&theme=gotham&include_all_commits=true&count_private=true)
