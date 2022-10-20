@@ -9,7 +9,7 @@
 - 🙋‍♂️ All about me is at **[My Website](http://roessner.tech/)**
 
 
-### Technologies
+## Technologies
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
@@ -22,7 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="36" width="36"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fleetadmiraljakob&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fleetadmiraljakob&theme=gotham)
+![](https://github-readme-streak-stats.herokuapp.com/?user=fleetadmiraljakob&theme=gotham)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fleetadmiraljakob&theme=gotham&include_all_commits=true&count_private=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fleetadmiraljakob&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 <!---
 FleetAdmiralJakob/FleetAdmiralJakob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
