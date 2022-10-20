@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: jakob.roessner@outlook.de
-- 🙋‍♂️ All about me is at **[My Website](www.roessner.tech/)**
+- 🙋‍♂️ All about me is at **My Website: www.roessner.tech**
 
 
 ## Technologies
