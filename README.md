@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @FleetAdmiralJakob
-- 👀 I’m interested in
-      - Code Minecraft Mods
-      - Code Games in C#, Java and Javascript
-      - Create Awesome Websites
+- 👀 I’m interested in <br />
+      - Build Stunning Android Apps <br />
+      - Create Awesome Websites <br />
+      - _Code Minecraft Mods_ <br />
+      - _Code Games in C#, Java and Javascript_ <br />
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: jakob.roessner@outlook.de
