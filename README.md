@@ -38,7 +38,7 @@ Apart from coding, these are some other activities that I love to do!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fleetadmiraljakob&theme=gotham) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fleetadmiraljakob&theme=gotham&include_all_commits=true&count_private=true) <br />
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=FleetAdmiralJakob&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
-Please note that not all of my activity is considered by Wakatime.
+Please note that by far not all of my activity is considered by Wakatime.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fleetadmiraljakob&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
