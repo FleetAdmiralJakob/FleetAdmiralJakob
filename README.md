@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @FleetAdmiralJakob
+- 👋 Hi, I’m @FleetAdmiralJakob from Berlin, Germany.
+I am a student, 13 years old, and multi talent at the Friedrich-Schiller-Gymnasium.
+
+Apart from coding, these are some other activities that I love to do!
+
+  Playing Games <br />
+  Play Hockey <br />
+  Traveling <br />
+  Reading Books <br />
+  Play Piano and Organ <br />
 - 👀 I’m interested in <br />
       - Build Stunning Android Apps <br />
       - Create Awesome Websites <br />
