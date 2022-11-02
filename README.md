@@ -4,10 +4,9 @@ I am a student, 13 years old, and multi talent at the Friedrich-Schiller-Gymnasi
 Apart from coding, these are some other activities that I love to do!
 
   Playing Games <br />
-  Play Hockey <br />
-  Traveling <br />
+  Playing Hockey <br />
   Reading Books <br />
-  Play Piano and Organ <br />
+  Playing Piano and Organ <br />
 - 👀 I’m interested in <br />
       - Build Stunning Android Apps <br />
       - Create Awesome Websites <br />
@@ -37,7 +36,7 @@ Apart from coding, these are some other activities that I love to do!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fleetadmiraljakob&theme=gotham)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fleetadmiraljakob&theme=gotham) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fleetadmiraljakob&theme=gotham&include_all_commits=true&count_private=true) <br />
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=FleetAdmiralJakob&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=FleetAdmiralJakob&theme=gotham&layout=compact&hide=other)](https://github.com/anuraghazra/github-readme-stats) <br />
 Please note that by far not all of my activity is considered by Wakatime.
 
 ## 🏆 GitHub Trophies
