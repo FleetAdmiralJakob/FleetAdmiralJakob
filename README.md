@@ -1,3 +1,4 @@
+<img src="Images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computer">
 - 👋 Hi, I’m @FleetAdmiralJakob from Berlin, Germany.
 I am a student, 13 years old, and multi talent at the Friedrich-Schiller-Gymnasium.
 
