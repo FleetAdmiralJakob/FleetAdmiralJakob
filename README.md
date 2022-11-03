@@ -1,19 +1,18 @@
 <img src="Images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computer">
-- 👋 Hi, I’m @FleetAdmiralJakob from Berlin, Germany.
-I am a student, 13 years old, and multi talent at the Friedrich-Schiller-Gymnasium.
+- 👋 Hi, I am Jakob Felix Eugen Rössner from Berlin, Germany.
+I am a student at the Friedrich-Schiller-Gymnasium.
 
-Apart from coding, these are some other activities that I love to do!
+I am 13 years old. I have a wide range of interests, what you can see from the other activities that I love to do, apart from coding!
 
-  Playing Games <br />
   Playing Hockey <br />
-  Reading Books <br />
+  Visiting museums and reading books on topics related to social science <br />
   Playing Piano and Organ <br />
 - 👀 I’m interested in <br />
       - Build Stunning Android Apps <br />
       - Create Awesome Websites <br />
       - _Code Minecraft Mods_ <br />
-      - _Code Games in C#, Java and Javascript_ <br />
-- 🌱 I’m currently learning C++
+      - _Code Games in Kotlin, Java and Javascript_ <br />
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: jakob.roessner@outlook.de
 - 🙋‍♂️ All about me is at **My Website: www.roessner.tech**
