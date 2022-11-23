@@ -36,7 +36,7 @@ I am 13 years old. I have a wide range of interests, what you can see from the o
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fleetadmiraljakob&theme=gotham&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fleetadmiraljakob&theme=gotham) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fleetadmiraljakob&theme=gotham&include_all_commits=true&count_private=true&langs_count=6) <br />
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=FleetAdmiralJakob&theme=gotham&layout=compact&hide=other&langs_count=20&all_time)](https://github.com/anuraghazra/github-readme-stats) <br />
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=FleetAdmiralJakob&theme=gotham&layout=compact&hide=other&langs_count=20&all_time&custom_title=Wakatime%20Stats%20(Top%2020%20Langs))](https://github.com/anuraghazra/github-readme-stats) <br />
 Please note that by far not all of my activity is considered by Wakatime. <br /> <br />
 [![Jakobs's github activity graph](https://activity-graph.herokuapp.com/graph?username=FleetAdmiralJakob&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
