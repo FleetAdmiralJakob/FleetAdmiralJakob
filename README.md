@@ -22,9 +22,13 @@ I am 13 years old. I have a wide range of interests, what you can see from the o
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36"/>
+  <img src="https://img.icons8.com/plasticine/512/react.png" width="36" height="36"/>
+  <img src="https://img.icons8.com/fluency/512/node-js.png" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" width="36">  
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="36" height="36"/>
+  <img src="https://user-images.githubusercontent.com/77451351/209582217-46f5816a-8317-48a8-a39e-0d4e4f7a4892.png" width="36" height="36"/>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" width="36"/>
