@@ -1,8 +1,8 @@
 <img src="Images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computer">
 - 👋 Hi, I am Jakob Felix Eugen Rössner from Berlin, Germany.
-I am a student at the Friedrich-Schiller-Gymnasium.
+I am a student at the Friedrich-Schiller-Gymnasium and a Software Engineering Intern at the Lylu GmbH.
 
-I am 13 years old. I have a wide range of interests, what you can see from the other activities that I love to do, apart from coding!
+I am 14 years old. I have a wide range of interests, what you can see from the other activities that I love to do, apart from coding!
 
   Playing Hockey <br />
   Visiting museums and reading books on topics related to social science <br />
