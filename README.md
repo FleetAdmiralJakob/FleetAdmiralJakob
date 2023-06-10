@@ -42,7 +42,7 @@ I am 14 years old. I have a wide range of interests, what you can see from the o
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fleetadmiraljakob&theme=gotham&hide=shaderlab,hlsl&include_all_commits=true&count_private=true&langs_count=6) <br />
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=FleetAdmiralJakob&theme=gotham&layout=compact&hide=other&langs_count=20&all_time&custom_title=Wakatime%20Stats%20(Top%2020%20Langs))](https://github.com/anuraghazra/github-readme-stats) <br />
 [![Jakobs's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FleetAdmiralJakob&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph) <br /> <br />
-Please note that by far not all of my activity is considered by Wakatime and GitHub. <br /> <br />
+Please note that by far not all of my activity is considered by Wakatime & GitHub. <br /> <br />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fleetadmiraljakob&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
