@@ -8,11 +8,9 @@ I am 14 years old. I have a wide range of interests, what you can see from the o
   Visiting museums and reading books on topics related to social science <br />
   Playing Piano and Organ <br />
 - 👀 I’m interested in <br />
-      - Build Stunning Android Apps <br />
       - Create Awesome Websites <br />
       - _Code Minecraft Mods_ <br />
-      - _Code Games in Kotlin, Java and Javascript_ <br />
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: jakob.roessner@outlook.de
 - 🙋‍♂️ All about me is at **My Website: www.roessner.tech**
