@@ -8,7 +8,7 @@ I am 17 years old. I have a wide range of interests, which you can see from the 
   Visiting museums and reading books on topics related to social science <br />
   Playing Piano and Organ <br />
 - 👀 I’m interested in <br />
-      - Building Dayova: https://dayova.com/
+      - Building Dayova: https://dayova.com/ <br />
       - Create Awesome Websites <br />
       - _Code Minecraft Mods_ <br />
 - 🌱 I’m currently learning C
